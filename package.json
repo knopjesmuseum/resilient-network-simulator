@@ -1,0 +1,42 @@
+{
+  "jspm": {
+    "dependencies": {
+      "debug": "npm:debug@^2.2.0",
+      "react": "npm:react@^0.14.7",
+      "react-addons-update": "npm:react-addons-update@^0.14.7",
+      "react-dom": "npm:react-dom@^0.14.7",
+      "react-redux": "npm:react-redux@^4.4.0",
+      "redux": "npm:redux@^3.3.1",
+      "redux-devtools": "npm:redux-devtools@^3.1.1",
+      "redux-devtools-dock-monitor": "npm:redux-devtools-dock-monitor@^1.0.1",
+      "redux-devtools-log-monitor": "npm:redux-devtools-log-monitor@^1.0.4",
+      "redux-devtools-slider-monitor": "npm:redux-devtools-slider-monitor@^1.0.0-beta-1",
+      "redux-logger": "npm:redux-logger@^2.5.0",
+      "redux-react": "npm:redux-react@^2.0.0",
+      "redux-slider-monitor": "npm:redux-slider-monitor@^1.0.2",
+      "systemjs-hot-reloader": "github:capaj/systemjs-hot-reloader@^0.5.5"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "resilient-network-simulator",
+  "version": "0.0.1",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^4.1.8",
+    "chokidar-socket-emitter": "^0.4.2",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^5.0.0",
+    "http-server": "^0.8.5"
+  },
+  "description": ""
+}
